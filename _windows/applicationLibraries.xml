@@ -1,5 +1,74 @@
 <application>
   <component name="libraryTable">
+    <library name="org.dromara:hmily-spring-boot-starter-parent:2.0.5-RELEASE" type="repository">
+      <properties maven-id="org.dromara:hmily-spring-boot-starter-parent:2.0.5-RELEASE" />
+      <CLASSES>
+        <root url="jar://$USER_HOME$/Documents/GitHub/tmldocumentprocessor/lib/hmily-spring-boot-starter-parent-2.0.5-RELEASE.jar!/" />
+        <root url="jar://$USER_HOME$/Documents/GitHub/tmldocumentprocessor/lib/hmily-core-2.0.5-RELEASE.jar!/" />
+        <root url="jar://$USER_HOME$/Documents/GitHub/tmldocumentprocessor/lib/hmily-common-2.0.5-RELEASE.jar!/" />
+        <root url="jar://$USER_HOME$/Documents/GitHub/tmldocumentprocessor/lib/commons-lang3-3.3.2.jar!/" />
+        <root url="jar://$USER_HOME$/Documents/GitHub/tmldocumentprocessor/lib/slf4j-api-1.7.25.jar!/" />
+        <root url="jar://$USER_HOME$/Documents/GitHub/tmldocumentprocessor/lib/logback-core-1.2.3.jar!/" />
+        <root url="jar://$USER_HOME$/Documents/GitHub/tmldocumentprocessor/lib/logback-classic-1.2.3.jar!/" />
+        <root url="jar://$USER_HOME$/Documents/GitHub/tmldocumentprocessor/lib/gson-2.6.2.jar!/" />
+        <root url="jar://$USER_HOME$/Documents/GitHub/tmldocumentprocessor/lib/guava-21.0.jar!/" />
+        <root url="jar://$USER_HOME$/Documents/GitHub/tmldocumentprocessor/lib/jedis-2.9.0.jar!/" />
+        <root url="jar://$USER_HOME$/Documents/GitHub/tmldocumentprocessor/lib/commons-pool2-2.4.2.jar!/" />
+        <root url="jar://$USER_HOME$/Documents/GitHub/tmldocumentprocessor/lib/kryo-shaded-4.0.0.jar!/" />
+        <root url="jar://$USER_HOME$/Documents/GitHub/tmldocumentprocessor/lib/minlog-1.3.0.jar!/" />
+        <root url="jar://$USER_HOME$/Documents/GitHub/tmldocumentprocessor/lib/protostuff-core-1.0.8.jar!/" />
+        <root url="jar://$USER_HOME$/Documents/GitHub/tmldocumentprocessor/lib/protostuff-api-1.0.8.jar!/" />
+        <root url="jar://$USER_HOME$/Documents/GitHub/tmldocumentprocessor/lib/protostuff-runtime-1.0.8.jar!/" />
+        <root url="jar://$USER_HOME$/Documents/GitHub/tmldocumentprocessor/lib/protostuff-collectionschema-1.0.8.jar!/" />
+        <root url="jar://$USER_HOME$/Documents/GitHub/tmldocumentprocessor/lib/hessian-4.0.38.jar!/" />
+        <root url="jar://$USER_HOME$/Documents/GitHub/tmldocumentprocessor/lib/mongo-java-driver-3.5.0.jar!/" />
+        <root url="jar://$USER_HOME$/Documents/GitHub/tmldocumentprocessor/lib/hmily-annotation-2.0.5-RELEASE.jar!/" />
+        <root url="jar://$USER_HOME$/Documents/GitHub/tmldocumentprocessor/lib/aspectjweaver-1.8.9.jar!/" />
+        <root url="jar://$USER_HOME$/Documents/GitHub/tmldocumentprocessor/lib/zookeeper-3.4.9.jar!/" />
+        <root url="jar://$USER_HOME$/Documents/GitHub/tmldocumentprocessor/lib/log4j-1.2.16.jar!/" />
+        <root url="jar://$USER_HOME$/Documents/GitHub/tmldocumentprocessor/lib/jline-0.9.94.jar!/" />
+        <root url="jar://$USER_HOME$/Documents/GitHub/tmldocumentprocessor/lib/netty-3.10.5.Final.jar!/" />
+        <root url="jar://$USER_HOME$/Documents/GitHub/tmldocumentprocessor/lib/disruptor-3.4.0.jar!/" />
+        <root url="jar://$USER_HOME$/Documents/GitHub/tmldocumentprocessor/lib/HikariCP-3.2.0.jar!/" />
+        <root url="jar://$USER_HOME$/Documents/GitHub/tmldocumentprocessor/lib/spring-boot-starter-2.0.2.RELEASE.jar!/" />
+        <root url="jar://$USER_HOME$/Documents/GitHub/tmldocumentprocessor/lib/spring-boot-2.0.2.RELEASE.jar!/" />
+        <root url="jar://$USER_HOME$/Documents/GitHub/tmldocumentprocessor/lib/spring-context-5.0.6.RELEASE.jar!/" />
+        <root url="jar://$USER_HOME$/Documents/GitHub/tmldocumentprocessor/lib/spring-aop-5.0.6.RELEASE.jar!/" />
+        <root url="jar://$USER_HOME$/Documents/GitHub/tmldocumentprocessor/lib/spring-beans-5.0.6.RELEASE.jar!/" />
+        <root url="jar://$USER_HOME$/Documents/GitHub/tmldocumentprocessor/lib/spring-expression-5.0.6.RELEASE.jar!/" />
+        <root url="jar://$USER_HOME$/Documents/GitHub/tmldocumentprocessor/lib/spring-boot-autoconfigure-2.0.2.RELEASE.jar!/" />
+        <root url="jar://$USER_HOME$/Documents/GitHub/tmldocumentprocessor/lib/spring-boot-starter-logging-2.0.2.RELEASE.jar!/" />
+        <root url="jar://$USER_HOME$/Documents/GitHub/tmldocumentprocessor/lib/log4j-to-slf4j-2.10.0.jar!/" />
+        <root url="jar://$USER_HOME$/Documents/GitHub/tmldocumentprocessor/lib/log4j-api-2.10.0.jar!/" />
+        <root url="jar://$USER_HOME$/Documents/GitHub/tmldocumentprocessor/lib/jul-to-slf4j-1.7.25.jar!/" />
+        <root url="jar://$USER_HOME$/Documents/GitHub/tmldocumentprocessor/lib/javax.annotation-api-1.3.2.jar!/" />
+        <root url="jar://$USER_HOME$/Documents/GitHub/tmldocumentprocessor/lib/spring-core-5.0.6.RELEASE.jar!/" />
+        <root url="jar://$USER_HOME$/Documents/GitHub/tmldocumentprocessor/lib/spring-jcl-5.0.6.RELEASE.jar!/" />
+        <root url="jar://$USER_HOME$/Documents/GitHub/tmldocumentprocessor/lib/snakeyaml-1.19.jar!/" />
+        <root url="jar://$USER_HOME$/Documents/GitHub/tmldocumentprocessor/lib/spring-boot-starter-test-2.0.2.RELEASE.jar!/" />
+        <root url="jar://$USER_HOME$/Documents/GitHub/tmldocumentprocessor/lib/spring-boot-test-2.0.2.RELEASE.jar!/" />
+        <root url="jar://$USER_HOME$/Documents/GitHub/tmldocumentprocessor/lib/spring-boot-test-autoconfigure-2.0.2.RELEASE.jar!/" />
+        <root url="jar://$USER_HOME$/Documents/GitHub/tmldocumentprocessor/lib/json-path-2.4.0.jar!/" />
+        <root url="jar://$USER_HOME$/Documents/GitHub/tmldocumentprocessor/lib/json-smart-2.3.jar!/" />
+        <root url="jar://$USER_HOME$/Documents/GitHub/tmldocumentprocessor/lib/accessors-smart-1.2.jar!/" />
+        <root url="jar://$USER_HOME$/Documents/GitHub/tmldocumentprocessor/lib/asm-5.0.4.jar!/" />
+        <root url="jar://$USER_HOME$/Documents/GitHub/tmldocumentprocessor/lib/junit-4.12.jar!/" />
+        <root url="jar://$USER_HOME$/Documents/GitHub/tmldocumentprocessor/lib/assertj-core-3.9.1.jar!/" />
+        <root url="jar://$USER_HOME$/Documents/GitHub/tmldocumentprocessor/lib/mockito-core-2.15.0.jar!/" />
+        <root url="jar://$USER_HOME$/Documents/GitHub/tmldocumentprocessor/lib/byte-buddy-1.7.9.jar!/" />
+        <root url="jar://$USER_HOME$/Documents/GitHub/tmldocumentprocessor/lib/byte-buddy-agent-1.7.9.jar!/" />
+        <root url="jar://$USER_HOME$/Documents/GitHub/tmldocumentprocessor/lib/objenesis-2.6.jar!/" />
+        <root url="jar://$USER_HOME$/Documents/GitHub/tmldocumentprocessor/lib/hamcrest-core-1.3.jar!/" />
+        <root url="jar://$USER_HOME$/Documents/GitHub/tmldocumentprocessor/lib/hamcrest-library-1.3.jar!/" />
+        <root url="jar://$USER_HOME$/Documents/GitHub/tmldocumentprocessor/lib/jsonassert-1.5.0.jar!/" />
+        <root url="jar://$USER_HOME$/Documents/GitHub/tmldocumentprocessor/lib/android-json-0.0.20131108.vaadin1.jar!/" />
+        <root url="jar://$USER_HOME$/Documents/GitHub/tmldocumentprocessor/lib/spring-test-5.0.6.RELEASE.jar!/" />
+        <root url="jar://$USER_HOME$/Documents/GitHub/tmldocumentprocessor/lib/xmlunit-core-2.5.1.jar!/" />
+        <root url="jar://$USER_HOME$/Documents/GitHub/tmldocumentprocessor/lib/lombok-1.16.14.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
     <library name="org.mockito:mockito-all:1.10.19" type="repository">
       <properties maven-id="org.mockito:mockito-all:1.10.19" />
       <CLASSES>
