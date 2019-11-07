@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="ldif" type="PLAIN_TEXT" />
       <mapping pattern="PropertyFile" type="Properties" />
     </extensionMap>
   </component>
